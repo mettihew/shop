@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/shop/static/css/main.c1eaa196.css",
-    "main.js": "/shop/static/js/main.3d4a3d8e.js",
-    "static/media/men-leg.jpg": "/shop/static/media/men-leg.776adeaf5373bba72280.jpg",
-    "static/media/back2.jpg": "/shop/static/media/back2.4d36865f92d63b2519a7.jpg",
-    "static/media/soon2.webp": "/shop/static/media/soon2.3cc855378539b54c5d02.webp",
-    "static/media/person2.jpg": "/shop/static/media/person2.1ff76c3c96d2af4bf6e7.jpg",
-    "static/media/shopping_016.webp": "/shop/static/media/shopping_016.40dcc15243d38b13d4f9.webp",
-    "static/media/person3.jpg": "/shop/static/media/person3.8671a8e58d7ff0913dd8.jpg",
-    "index.html": "/shop/index.html",
-    "main.c1eaa196.css.map": "/shop/static/css/main.c1eaa196.css.map",
-    "main.3d4a3d8e.js.map": "/shop/static/js/main.3d4a3d8e.js.map"
+    "main.css": "/amazon/static/css/main.d609960f.css",
+    "main.js": "/amazon/static/js/main.40c0ba79.js",
+    "static/media/men-leg.jpg": "/amazon/static/media/men-leg.776adeaf5373bba72280.jpg",
+    "static/media/back2.jpg": "/amazon/static/media/back2.4d36865f92d63b2519a7.jpg",
+    "static/media/soon2.webp": "/amazon/static/media/soon2.3cc855378539b54c5d02.webp",
+    "static/media/person2.jpg": "/amazon/static/media/person2.1ff76c3c96d2af4bf6e7.jpg",
+    "static/media/shopping_016.webp": "/amazon/static/media/shopping_016.40dcc15243d38b13d4f9.webp",
+    "static/media/person3.jpg": "/amazon/static/media/person3.8671a8e58d7ff0913dd8.jpg",
+    "index.html": "/amazon/index.html",
+    "main.d609960f.css.map": "/amazon/static/css/main.d609960f.css.map",
+    "main.40c0ba79.js.map": "/amazon/static/js/main.40c0ba79.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1eaa196.css",
-    "static/js/main.3d4a3d8e.js"
+    "static/css/main.d609960f.css",
+    "static/js/main.40c0ba79.js"
   ]
 }
